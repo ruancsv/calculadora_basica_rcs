@@ -1,4 +1,4 @@
-# Calculadora Básica em C#
+# Calculadora Basíca em C#
 
 Este é um projeto simples desenvolvido em C# com o objetivo de praticar lógica de programação e conceitos básicos da linguagem.
 
